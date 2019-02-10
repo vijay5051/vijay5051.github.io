@@ -2049,7 +2049,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop9.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop10.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2351,7 +2351,7 @@
             "showTitle": false,
             "showSubtitle": false,
             "autoplay": true,
-            "timeout": 5,
+            "timeout": "2",
             "paddingTop": "0",
             "paddingBottom": "0",
             "showArrows": true,
@@ -2371,7 +2371,7 @@
             "visibleSlides": "4",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/news-1-254x166.png",
@@ -2458,7 +2458,7 @@
                 "title": ""
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/news-10-234x123.png",
