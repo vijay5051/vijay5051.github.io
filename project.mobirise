@@ -1,0 +1,3581 @@
+{
+  "settings": {
+    "name": "InnerWave",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#2969b0",
+        "secondaryColor": "#2969b0",
+        "successColor": "#3d8eb9",
+        "infoColor": "#00a885",
+        "warningColor": "#7e9b9f",
+        "dangerColor": "#cccccc",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Oxygen",
+        "textFont": "Oxygen",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#666666",
+        "#313313"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.2",
+    "siteFonts": [],
+    "uniqCompNum": 101,
+    "versionPublish": "4.9.2",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "сanonical-url": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showLogo": false,
+            "showTitle": true,
+            "showText": false,
+            "showCountdown": false,
+            "showForm": false,
+            "showArrow": true,
+            "imageSize": "13",
+            "countdown": "2019/12/31",
+            "animText1": "RELIABLE",
+            "animText2": "COMPETITIVE",
+            "animText3": "CREATIVE",
+            "typeSpeed": 60,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1439.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "",
+          "title2": "CORPORATE ADVISORY FIRM",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/iw%20copy-200x200.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "color": "#41a85f"
+            }
+          },
+          "form": {
+            "action": "rocking.vsr@gmail.com",
+            "alerts": {
+              "success": "Thanks for submission. We will reach out to you!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader15",
+          "_anchor": "extHeader15-6"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2969b0",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader15-6\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-14\">OUR SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-20\">OUR TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">WEB LOGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-21\">MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\">LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logooo-263x78.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#extHeader15-6",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-counters1",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#2969b0"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-counters1",
+              "linkInNewWindow": false,
+              "name": "flag",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-counters1",
+              "linkInNewWindow": false,
+              "name": "cust-feedback",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#3d8eb9"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-counters1",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#475577"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "edit",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title1": "Mergers &amp; Acquisitions &amp; VC/PE Deals Participated",
+          "title2": "<p>Asset, Business &amp; GAAP Valuations Delivered</p>",
+          "title3": "Financial &amp; Business Due Diligence Delivered",
+          "title4": "Risk Advisory Agreements",
+          "subtitle1": "",
+          "subtitle2": "",
+          "subtitle3": "",
+          "subtitle4": "",
+          "number1": "70",
+          "number2": "250",
+          "number3": "360",
+          "number4": "50",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCounters1",
+          "_anchor": "extCounters1-8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-counters1",
+              "linkInNewWindow": false,
+              "name": "up-down",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#475577"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-counters1",
+              "linkInNewWindow": false,
+              "name": "speed",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#3d8eb9"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-counters1",
+              "linkInNewWindow": false,
+              "name": "video-play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-counters1",
+              "linkInNewWindow": false,
+              "name": "file",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#2969b0"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "edit",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title1": "Cross Border Transactions",
+          "title2": "Distressed Asset Deals &amp; Restructuring / NCLT Cased Handled",
+          "title3": "Movie Finance Project",
+          "title4": "IndAS Assignments",
+          "subtitle1": "",
+          "subtitle2": "",
+          "subtitle3": "",
+          "subtitle4": "",
+          "number1": "500",
+          "number2": "3",
+          "number3": "1",
+          "number4": "50",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCounters1",
+          "_anchor": "extCounters1-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "showTitles": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "ABOUT US",
+          "text": "InnerWave is one of the fastest growing Corporate Advisory firms in India. With over 75 professional staff across 5 offices, the firm provides robust advisory services and expansion solutions on complex business and financial matters through focused coverage groups. <br>The firm has deep expertise across a range of sectors &amp; practice areas. Team of experts with 150+ years of combined advisory experience working with Best-in-Class firms and Fortune 500 clients. The firm’s strong Expert Group &amp; Advisory Council enhances the expertise and helps deliver customized solutions to clients<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-14\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#msg-box8-20\" data-toolbar=\"-mbrBtnMove\">OUR TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#msg-box2-1h\" data-toolbar=\"-mbrBtnMove\">OUR LOCATIONS</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box8-21\" data-toolbar=\"-mbrBtnMove\">MEDIA</a>",
+          "title1": "10 Partners",
+          "title2": "75+ Team",
+          "title3": "5 Locations",
+          "title4": "500+ Client Relationships",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 83,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "social-people-outline",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "size": 83,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "location",
+              "family": "linecons",
+              "active": true,
+              "link": "",
+              "size": "70",
+              "color": "#e6e6e6"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 83,
+              "color": "#ffffff"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader3",
+          "_anchor": "extHeader3-10",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "19px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "OUR SERVICES",
+          "meta": "Wide Coverage | Expertise",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "A",
+              "title": "V"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Merger &amp; Acquisitions<br>Valuations<br>Fund-Raising<br>Financial Due Diligence<br>Venture Debt",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Business Plans<br>Go-to Market Strategy<br>Business Model Modification<br>Operational Excellence<br>Business Due Diligence",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Restructuring<br>Fraud &amp; Forensic<br>ARC Advisory<br>NCLT Matters<br>Distress Buy-outs",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Book Keeping<br>Accounts Payable<br>Accounts Receivable<br>Financial Planning<br>Statutory Compliance",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#features3-i\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">INVESTMENT BANKING</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#features3-i\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">STRATEGY CONSULTING</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#features3-i\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">SPECIAL SITUATION</a>  ",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#features3-i\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">OFFSHORING</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-i"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Statutory Audits<br>Risk Assessments<br>Secretarial Compliances<br>IndAS &amp; IFRS<br><br>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Income Tax- India<br>Goods &amp; Service Tax<br>Cross Border Taxation<br>Transfer Pricing<br>Tax Audits",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Internal Audit​<br>Risk Assessment<br>IFC<br><br><br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Body-Shopping<br>PE/VC Hiring<br>Virtual CFO<br>AR/AP Functions<br>Executive Research",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#features3-v\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">AUDITS &amp; ASSURANCE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#features3-v\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">TAXATION</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#features3-v\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">RISK ADVISORY</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#features3-v\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTROLLERSHIP</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1272.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "OUR TEAM",
+          "text": "<p>EXPERIENCED | EXPERTS</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-20"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jatin-133x133.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pravesh-130x130.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/saurabh-132x132.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face3.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "OUR TEAM",
+          "subtitle": "<b style=\"font-style: normal;\">Experienced | Experts</b>",
+          "title1": "Jatin Tehri",
+          "subtitle1": "<span style=\"font-style: normal;\">Managing Partner</span>",
+          "caption1": "Chartered Accountant, Certified Valuation Professional<br>-Deloitte, Alpha G Corp (A Morgan Stanley funded company)<br>-Over 14 years of experience <br>-JT@innerwave.in<br><br>",
+          "title2": "Pravesh Goel",
+          "subtitle2": "<span style=\"font-style: normal;\">Chief Operating Officer</span>",
+          "caption2": "&nbsp;Chartered Accountant, Certified International Tax Practitioner<br>- PWC, Deloitte,Saipem<br>- Over 14 years of experience<br>- Process Automation Expert<br>-pravesh@innerwave.in &nbsp;",
+          "title3": "Saurabh Gupta",
+          "subtitle3": "<span style=\"font-style: normal;\">Partner</span>",
+          "caption3": "- Chartered Accountant, Certified Internal Audit, <br>Certified Forensic Accountant<br>- EY, XL Catlin<br>- Over 14 years of experience<br> - Saurabh@innerwave.in &nbsp;",
+          "title4": "Emily Brown",
+          "subtitle4": "Reception",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "James Evans",
+          "subtitle5": "Sales",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Daniel Walker",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "http://linkedin.com/in/jatin-tehri-1a24708",
+              "size": "26",
+              "color": "#000000",
+              "newWindow": true
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "mailto:jt@innerwave.in",
+              "size": "26",
+              "color": "#000000"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "http://linkedin.com/in/ca-pravesh-goel-a5b57412",
+              "size": "26",
+              "color": "#000",
+              "newWindow": true
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "mailto:pravesh@innerwave.in",
+              "size": "26",
+              "color": "#000000"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "http://linkedin.com/in/ca-saurabh-gupta-53110bb",
+              "size": "26",
+              "color": "#000000",
+              "newWindow": true
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "mailto:saurabh@innerwave.in",
+              "size": "26",
+              "color": "#000000"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-d",
+          "_styles": {
+            "H4": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vijay-1-150x150.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/divakar-2-130x130.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/shelly-tehri-130x130.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face3.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "",
+          "subtitle": "",
+          "title1": "Vijay Singh Rathore",
+          "subtitle1": "<span style=\"font-style: normal;\">Partner</span>",
+          "caption1": "- Chartered Accountant<br>- ICICI, RANAG<br>- Over 5 years of experience<br>- vijay.rathore@innerwave.in &nbsp;",
+          "title2": "Divakar Rajashekharan",
+          "subtitle2": "<span style=\"font-style: normal;\">Partner</span>",
+          "caption2": "- BE (Comp. Science), MBA - NITIE <br>- CSS, Infosys, Argent Financial, BCG<br>- Over 16 years of experience<br>-divakar@innerwave.in",
+          "title3": "Shelly Tehri",
+          "subtitle3": "<span style=\"font-style: normal;\">Partner</span>",
+          "caption3": "- Chartered Accountant <br>- IDBI Bank<br>- Over 10 years of experience<br>-shelly@innerwave.in<br><br>",
+          "title4": "Emily Brown",
+          "subtitle4": "Reception",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "James Evans",
+          "subtitle5": "Sales",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Daniel Walker",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "http://linkedin.com/in/vijayrathoreinnerwave",
+              "size": "26",
+              "color": "#000",
+              "newWindow": true
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "mailto:vijay.rathore@innerwave.in",
+              "size": "26",
+              "color": "#000"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "http://linkedin.com/in/ardivakar",
+              "size": "26",
+              "color": "#000",
+              "newWindow": true
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "mailto:divakar@innerwave.in",
+              "size": "26",
+              "color": "#000"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "size": "26",
+              "color": "#000"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "size": "26",
+              "color": "#000000"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-e",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bala-130x130.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rakesh-130x130.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vishal-130x130.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face3.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "",
+          "subtitle": "",
+          "title1": "Balasubramaniam Durgavarjhula",
+          "subtitle1": "<span style=\"font-style: normal;\">Partner</span>",
+          "caption1": "- MBA - AIM, Manila<br>- COO, Adventity; KPMG, SBI Caps<br>- Over 15 years of experience<br>- bala@innerwave.in",
+          "title2": "Rakesh Juneja",
+          "subtitle2": "<span style=\"font-style: normal;\">Partner</span>",
+          "caption2": "- Chartered Accountant, CISA, CRISC<br>- Sanofi, British American Tobacco <br>- Over 13 years of experience<br> - rakeshjuneja@innerwave.in<br>",
+          "title3": "Vishal Sharma",
+          "subtitle3": "<span style=\"font-style: normal;\">Partner</span>",
+          "caption3": "-Chartered Accountant, Company Secretary<br>-XL Catalin,EXL, GECIS<br>-Over 18 years of experience <br>-Vishal@innerwave.in &nbsp;",
+          "title4": "Emily Brown",
+          "subtitle4": "Reception",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "James Evans",
+          "subtitle5": "Sales",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Daniel Walker",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "size": "26",
+              "color": "#000"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "size": "26",
+              "color": "#000"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "http://linkedin.com/in/rakeshjuneja",
+              "size": "26",
+              "color": "#000",
+              "newWindow": true
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "mailto:rakeshjuneja@innerwave.in",
+              "size": "26",
+              "color": "#000"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "dribbble",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin-square",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "size": "26",
+              "color": "#000"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "communication-email",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "size": "26",
+              "color": "#000"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-f",
+          "_styles": {
+            "H4": {
+              "color": "#3d8eb9"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WEB LOGS",
+          "text": "<p>WRITE UPS | BLOGS</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1z"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#00a885",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5-1-600x219.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop9.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-276x276.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3-276x276.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4-276x276.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-276x271.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Startup Valuation - Investors' Perspective",
+          "subtitle1": "January 2, 2019<br>Jatin Tehri",
+          "caption1": "Certainly, An investor is here in the startup world to make money but he definitely knows that he can't have 100% of the Company. If a startup is successful even 1% is more valuable than 100%. This article helps understanding startup valuation.",
+          "title2": "Best Practices for Audit Documentation",
+          "subtitle2": "January 6, 2019<br>Pravesh Goel",
+          "caption2": "Audit Documentation is the essential skills all Audit Professionals must have. This article addresses points one should keep in mind to ensure good audit documentation.<br><br><br><br><br>",
+          "title3": "7 Ways to scale your startup!",
+          "subtitle3": "August 23, 2018<br>Vijay Singh Rathore",
+          "caption3": "<br>Many times a Startup founder get stuck and struggles to further scale up the business. In such cases, these 7 ways are suggested to come out of that situation.<br><br><br><br><br>",
+          "title4": "Why Statutory Auditors are at risk on IFC?",
+          "subtitle4": "Feb 18, 2018<br>Pravesh Goel",
+          "caption4": "As auditors are statutorily required to comment of IFC. Auditors are relying on management testing of IFC by evaluating the testing methodology and effectiveness. This article will you understand this issue deeply.",
+          "title5": "Resolved: Confusion over Due Diligence",
+          "subtitle5": "April 3, 2018<br>Vijay Singh Rathore",
+          "caption5": "Due diligence is an investigation or audit of a potential investment or product. There are several types of Due-Diligence. Most famous and relevant are discussed here to help you select the right one.<br><br><br>",
+          "title6": "Why incorporation of Indian Start-ups was down by 29% YoY in 2017 and how to avoid this in 2018?",
+          "subtitle6": "January 10, 2018<br>Vijay Singh Rathore",
+          "caption6": "As per Nasscom Start-up Report 2017, Indian start-up industry saw a downfall of 29% YoY in 2017. This is a guide for entrepreneurs to improve and survive the fierce competition.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-12",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#00a885"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#cccccc"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#msg-box8-2p\" data-toolbar=\"-mbrBtnMove\">EXPLORE MORE &gt;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-24"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MEDIA",
+          "text": "<p>Portfolio | Press Release</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-21"
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Zestl raises funds in Pre-Series A Round",
+          "subtitle1": "Dec 12, 2018",
+          "caption1": "",
+          "title2": "Uniparts files for IPO with SEBI",
+          "subtitle2": "<br>Dec 6, 2018<br>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Freyr Energy raises INR 27Cr in Series-A Funding",
+          "subtitle3": "Nov 27, 2018",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Jasch Industries arm Indev buys US based ACT",
+          "subtitle4": "March 8, 2017",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-22"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#msg-box8-23\" data-toolbar=\"-mbrBtnMove\">EXPLORE MORE &gt;</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-23"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "4",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-1-254x166.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-2-262x154.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-3-243x170.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-5-254x166.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-7-234x123.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-8-241x174.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-9-189x196.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/news-1-254x166.png",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-10-234x123.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/news-1-254x166.png",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "title": "OUR CLIENTS",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_anchor": "extTestimonials5-2s"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": true,
+            "autoplay": true,
+            "timeout": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "4",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/outlook-132x29.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/bw-164x40.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/dna-logo-95x60.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/dsa-logo-102x60.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/financial-exress-271x30.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/news-corp-85x49.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              }
+            ]
+          },
+          "title": "",
+          "subtitle": "Also featured in...",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_anchor": "extTestimonials5-w",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-align": "left",
+              "color": "#28324e",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2969b0",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.3"
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Write to us</a>",
+          "text1": "<b>Address</b><b><br></b><br>BlueOne Square, Udyog Vihar Phase 4 Rd, Gurugram, Haryana 122016<br><br><b>Enquiry: info@innerwave.in</b><br><b>Apply for Job: hr@innerwave.in</b><b><br></b><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page2.html#msg-box2-1h\" class=\"text-danger\">Locate Us</a></b></span></font></p><ul class=\"mbr-contacts__list\"><li><a href=\"page2.html#header3-1i\">Gurugram</a></li><li><a href=\"page2.html#header3-1j\">New Delhi</a></li><li><a href=\"page2.html#header3-1k\">Bengaluru</a></li><li><a href=\"page2.html#header3-1l\">Mumbai</a></li><li><a href=\"page2.html#header3-1m\">London</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "rocking.vsr@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-1t",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/innerwave.in/about/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1c"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showLogo": true,
+            "progress": "100",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul>Copyright 2019 by InnerWave Endeavors Pvt. Ltd.<li></li></ul>",
+          "title": "",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logooo-263x78.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-2r",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Web Logs",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2969b0",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader15-6\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-14\">OUR SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-20\">OUR TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">WEB LOGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-21\">MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\">LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logooo-263x78.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#extHeader15-6",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-15"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WEB LOGS",
+          "text": "<p>WRITE UPS | BLOGS</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page1.html#msg-box8-2n\" data-toolbar=\"-mbrBtnMove\">Startup Valuation - Investors'​ Perspective</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#msg-box8-29\" data-toolbar=\"-mbrBtnMove\">Best Practices for Audit Documentation</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html#msg-box8-2b\" data-toolbar=\"-mbrBtnMove\">7 Ways to Scale Your Startup!</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"page1.html#msg-box8-2d\" data-toolbar=\"-mbrBtnMove\">Why Statutory Auditors are at Risk on IFC?</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page1.html#msg-box8-2f\" data-toolbar=\"-mbrBtnMove\">Resolved : Confusion over Due Diligence</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html#msg-box8-2l\" data-toolbar=\"-mbrBtnMove\">Why incorporation of Indian Start-ups was down by 29% YoY in 2017 and how to avoid this in 2018?</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5-938x342.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Startup Valuation - Investors'​ Perspective",
+          "text": "<p>January 2, 2019</p><p>Jatin Tehri</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-26"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Certainly, An investor is here in the startup world to make money but he definitely knows that he can't have 100% of the Company. If a startup is successful even 1% is more valuable than 100%.</p><p><br></p><p>Investors are smart people and they generally have lot of experience in investing. In the back of their mind, they always do backward working for the subsequent rounds of investment. For example, A Series A investor will leave the space for Series B, C, and so on and he will also think that the founders should not be pushed to a level where they loose interest.</p><p><br></p><p>A seed investor generally takes not more than 10-15%, A Pre-Series A or Series A investor will take 15-20% and Series B can take another 15-20% of the Company. If we calculate the total dilution, its 40-55% till now, leaving 45-60% with the founders but in most of these cases, Series B generally buys out seed/ angel investors, so the net dilution comes back to 30-40%, keeping 60-70% with the founders. However, the dilution may vary significantly depending upon the circumstances, rounds and the quantum of money being raised. Flipkart is the best example which raised multiple rounds at diversified valuations, even in the same years.</p><p><br></p><p>Needless to mention, all investors specially institutional investors do their Market Analysis and back their workings using various valuation methods involving Market Multiples, DCF and Berkus Method, among others. Market Multiples (Precedent and Trading) are used when the similar kind of companies are already traded or have recently been funded. DCF is a company specific method of calculating the valuation based on its future projections but these are \"Excel Workings\". I have intentionally used the words \"Excel Workings\" because it can give you any desired valuation - Still this is considered as important method if used rationally. It can help founders do their own homework as to what level they can achieve or take the company, calculate the funding requirements, helps in the proper planning and finally helps in the projections vs actual analysis (post investment). One of a very common mistake, which we have seen - people tend to do such an aggressive projection which is even beyond market size. One should be very careful here!</p><p><br></p><p>Another common mistake, which I heard from lot of investors is - \"Over Estimation of Execution Capabilities\". Execution is dependent upon people and, founders need team, they can't do everything by themselves and here comes the problem - Hiring takes time and then it also takes time for new hires to settle down and there will be failures as well. Thus, founders should be very careful in projecting the targets as execution could be tough.</p><p><br></p><p>One should never think that money can buy everything. Even the sufficiently funded startups are facing the execution risk. I have seen SWOT Analysis in many pitch decks saying Money/ Funding is the only weakness. However, that's not true!</p><p><br></p><p>We have noticed in many companies going for Series B, C rounds of funding - whenever they are asked about the projections achieved with previous round, they are unable to answer. Thus, I repeat, One should be very careful and reasonable in drawing the projections.</p><p><br></p><p>At the end, I would to say Investors are intelligent people and they know they will only make if the founders are successful. I have not seen major fights in the valuations if the startup is good, well prepared and and knows what they are talking!</p><p><br></p><p>May this New Year bring lot of wealth and value for everyone! Happy 2019!!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/0-720x720.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Best Practices for Audit Documentation",
+          "text": "<p>January 6, 2019</p><p>Pravesh Goel</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-29"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Audit Documentation is the essential skills all Audit Professionals must have. Applying right audit methodology is obviously followed by documenting the audit outcome, well. Below are the few points, one must keep in mind to ensure good audit documentation.</p><p><br></p><p><b>EMBRACE STANDARDIZATION</b></p><p><br></p><p>Although firms may have standardized audit procedures, each partner often has his or her own working paper preferences, which can create inefficiencies when staff members document their work. The solution is to require that all auditors use standardized working papers. To ensure proper documentation, use a format designed to comply with professional standards, covering the nature, extent, and timing of procedures; the results of those procedures; and any significant findings, issues, or professional judgments. Eliminating unnecessary client documentation in the file boosts efficiency as well.</p><p><b><br></b></p><p><b>BE PREPARED FOR WHAT'S AHEAD</b></p><p><br></p><p>Good documentation also improves efficiency in subsequent-year's audits. By documenting appropriately, the auditor provides next year's audit team with a record of matters of continuing significance, helping them avoid duplication of effort, and giving them a solid foundation to build even better documentation year by year. They can walk in with a better understanding of what's ahead and the information that is needed and they don't have to start from scratch.</p><p>Auditors will also be in better shape when it comes to internal inspections, peer reviews, and regulatory inspections. With more thorough documentation, less time should be spent addressing questions and concerns during reviews or inspections. By developing a cohesive set of working papers, the auditor is less likely to be required to redo work already performed in the field, make follow-up requests to clients, or, in a worst-case situation, recall an audit report.</p><p><br></p><p><b>TAKE A SMART APPROACH TO PLANNING</b></p><p><br></p><p>A sound audit plan is the foundation of an efficient and effective audit. When performing your planning procedures, take the time to really get to know clients and what is going on in their industry. Make sure the most experienced engagement team members are heavily involved in identifying audit risks and responses.</p><p><br></p><p>Once the audit plan has been established, map the audit in a memo, laying out the biggest risks, strategies to mitigate each risk, and references to where the work will be performed. This will give the partner a quick overview of the audit areas that matter the most while providing linkage to the working papers. Continue to update the memo as the audit progresses and new risks are identified.</p><p><br></p><p>Referencing the audit plan, ensure that your audit programs have been tailored to address your client's unique risks. For firms that use standardized materials from third-party providers, actively eliminating procedures that aren't necessary to support the audit opinion can increase efficiency while focusing the audit team's attention on the accounts and areas that represent the greatest risk.</p><p><br></p><p>If your firm's audit teams have been taking a SALY (\"same as last year\") approach—or worse, if they have been performing whatever procedures appear on a third-party provider's audit program regardless of risk considerations—they may be missing an opportunity to make significant gains in efficiency and effectiveness.</p><p><br></p><p><b>DOCUMENT IN A TIMELY MANNER:</b></p><p><br></p><p>Instead of documenting while performing the audit procedures, auditors in the field sometimes decide to catch up with documentation later which leads to unnecessary time lapses between performance and documentation which can cause auditors to forget how they developed an expectation, why they performed a calculation or why they reached a particular conclusion and try to clear open items as quickly as possible. However, there is a good reason that the standard calls for completing this step promptly. Documentation is more likely to be accurate if it is performed sooner rather than later. This approach also prevents the preparer from having to remember vast amounts of information or to repeat tasks after the procedure is performed.</p><p><br></p><p>In addition, meeting the requirements of professional standards by documenting in a timely manner allows supervisors and partners to spend less time dealing with unnecessary questions and misunderstandings. It improves the chances that working papers can be reviewed in the field and that a draft report and management letter can be ready before leaving the client's office. It's much easier to identify problems and address questions to client staff when you're working down the hall from them than after you've left the field and you're trying to tie up loose ends.</p><p><br></p><p><b>BE CLEAR AND CONCISE:</b></p><p><br></p><p>&nbsp;To promote efficiency in both the internal and peer review processes, be as concise—but thorough—as possible. This will also be helpful for future audits potentially involving different staff. It should be a speaking document.</p><p><br></p><p><b>REVIEW:</b></p><p><br></p><p>Make sure documentation is complete (in accordance with the professional standards) and error-free and clearly conveys and backs up the significant findings to avoid calling audit evidence into question during reviews. Also be sure to double-check cross-referencing among work papers. Where there is work, there will be mistakes. Hence, review is most important step during finalisation of audit.</p><p><br></p><p><b>AUDIT DOCUMENTATION SHOULD NOT REFLECT BIASNESS:</b></p><p><br></p><p>Audit Documentation should be done in the manner that it should not reflect biased nature of auditor while performing the audit.</p><p><br></p><p>The auditor shall select the items for testing in such a way that each sampling unit has a chance of selection, so that sampling method adopted by the auditor should represent an unbiased manner of sample selection.</p><p><br></p><p>&nbsp;For instance, if we choose Judgmental sampling, where sample size and composition are decided on the basis of auditor’s experience, then it may lead to personal bias and sample may not be true representative of population.&nbsp;</p><p><br></p><p>On the other hand, Statistical sampling is more scientific, no personal bias and results of sample can be evaluated and projected in more reliable way.</p><p><br></p><p>Good Audit Documentation is the only tool which helps auditors to justify basis of thier opinion, whenever there is need for the same. Regulatory requirements are getting tougher and with the introduction of NFRA audit documentation's importance can not be doubted.</p><p><br></p><p>Afterall, Work Not Documented, Work Not Done</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/111-640x359.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "7 Ways to Scale Your Startup!",
+          "text": "<p>August 23, 2019</p><p>Vijay Singh Rathore</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>1. Before you even think to scale your startup, you should have your fundamentals noted down and rock solid.&nbsp;</p><p>Every business has it's own market and landscape to grow. It is very essential that before jumping to a market and launching new products into it, one must understand that market must be in reception mode when you tend to play with it.</p><p><br></p><p><br></p><p>2. This one is the golden rule and my favourite. If you will spend more time in automating things, you will run longer and scaling the business is easy. You'll be able to access data faster, hire faster, market better, pay easier, and streamline operations for a truly scalable model. Even though it takes a long time on the front end, this activity will pay for itself in the long term.</p><p><br></p><p><br></p><p>3. How a business will scale if no one knows about it?</p><p>Focus on marketing, and scalability will follow. But not every form of marketing is scalable. According to Forbes \"direct marketing is...not scalable\" and \"word-of-mouth does not scale.</p><p>Content marketing has evergreen value and vital potential, making it the growth-hack method of choice for most startups.</p><p><br></p><p><br></p><p>4. For big corporations, the name of the game is \"in-house.\" They've got in-house graphic designers, developers, conversion optimizers, SEOs, CPAs, lawyers, and even janitors.</p><p>Startups can't afford that luxury, and if you want to be strong enough to grow, you'll need to outsource all non-essential roles.You just need to focus on what you're good at.</p><p><br></p><p><br></p><p>5. In order to be truly scalable, your business should be able to function just fine without you.&nbsp;</p><p>The way you put that into place is by deliberately shifting responsibility off your shoulders, or into the oversight of someone else. In addition, you should take deliberate absences so you can force the business and personnel to be independent.</p><p><br></p><p><br></p><p>6. A business is scalable, only when it has the right people on board.</p><p>Key characteristics of team members who will help you scale up are having multi-skill, full of good ideas and they can do what any program can't. If you are able to onboard such right minds, your efforts are materialised and business tend to grow.</p><p><br></p><p><br></p><p>7. Every new startup is in the public eye. Whatever happens on social media will be examined by the world. It's important in your startup days to watch your social media carefully. Fledgling startups can't afford to take a major PR hit with a social media flap. If you hit a PR fiasco, you're limiting your chance of survival and scalability.</p><p><br></p><p>Conclusion: Scalability is a mindset. Make sure you have right systems and processes, people and plan on table. If you want to become big, think big and move in that direction. Many times you will stuck and will struggle to further scale up. It will be the time to re-execute all above mentioned 7 ways.&nbsp;</p><p>Happy Scale-up :)</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Why Statutory Auditors are at Risk on IFC?",
+          "text": "<p>February 18, 2019</p><p>Pravesh Goel</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>What is IFC?</b></p><p><br></p><p>IFC stands for internal financial control, a new scenario in Indian financial reporting system which has evolved from Companies Act 2013. With massive increase in the size of the companies having gigantic transactions size, verification of each and every transaction has become impossible. Audit sampling has and always had an inherent risk of non finding of error or fraud. Therefore, establishing trust on Internal Controls implemented by the Companies has become the ultimate recourse to Auditors to take hold on the Entity’s financial environment and thus on reporting of the same. Internal Financial Controls does not only give comfort to Auditors but to other stake holders like Independent Directors, Shareholders, Banks and Government Bodies. Indian Authority has introduce reporting requirement on Internal Financial Controls making Statutory Auditors responsible to comment on implementation and operating efficiency of IFC through Companies Act 2013. The similar concept was introduced by USA in 2002 through SOX i.e. Sarbanes – Oxley Act.</p><p><br></p><p><br></p><p>Going through the requirement of Companies Act as presented above, it is clear that all three main pillers of an Entity’s Management are required not only to ensure proper implementation of IFC but also to ensure it’s efficiency. Also, it is to be noted that while Directors, Audit Committee, Independent Directors are responsible for IFC, Statutory Auditors are responsible for ICOFR i.e. Internal Controls Over Financial Reporting.</p><p><br></p><p>Though the Companies Act has defined the compliance requirement related to IFC/ICOFR, it has no where prescribed any framework or guidelines for the same. The Institute of Chartered Accountants of India has announced a guidance note on ICOFR which is based on COSO framework. The COSO framework is being used worldwide for establishing Internal Controls. There are 5 elements and 17 principals prescribed in COSO framework. An Entity is required to draft it’s Internal Controls Framework based on these 5 elements and 17 principals and auditors are required to evaluate the internal controls based on the same. The 5 elements and 17 principals are as follows:</p><p><br></p><p><br></p><p><br></p><p><b>Auditors’ Roles and Responsibilities towards IFC</b></p><p><br></p><p>Since now Auditors have to comment on implementation and of IFC and it’s operating efficiency, it’s became their duty to ensure proper internal controls mitigating key risks the entity is expose to considering the environment they are oprating in. The recent few financial frauds has made IFC implementation far more important as it is evident that those frauds would not have occurred or atleast would have identified much earlier, had those entities has strong internal controls in place with good control environment.</p><p><br></p><p><br></p><p><b>Auditors’ Action Points</b></p><p><br></p><p>Auditors needs to be vigilant first on Entity’s control environment then on their Risk Identification Process.</p><p><br></p><p>The biggest risk an Entity is exposed to is the Risk of non-identification of Risks it is exposed to.</p><p><br></p><p>While the control environment represent attitude of the top management towards the Risk and Controls, risk identification is the first step towards establishing controls within the entity.</p><p><br></p><p>Auditors then map the various controls to identified Risks and is also required to evaluate the design of controls.</p><p><br></p><p>However, how does it is practically being done?</p><p><br></p><p>World wide, Auditors are relying on management testing of IFC by evaluating the testing methodology and effectiveness. As it is the prime responsibility of the management to implement and operate IFC within the Entity, Auditors take thier comfort based on Management Testing of IFC with regards to Test of Design as well as Test of Controls. Having said that, now comes the biggest challenge or risk in such management testing. The two biggest challenge/risk involve in management testing of IFC are :</p><p><br></p><p>Availabilty of required skill-set with the management for the purpose of such testing.</p><p>Unbiasedness and effectiveness of such testing.</p><p>To deal with above two risks, Auditors has started asking for an external report i.e. management testing performed by an external agencies having required skill-set and experience. This is a known fact that external evidences are more reliable then internal evidence, therefore Auditors are more inclined towards external evidences hence ask for external report for IFC review purpose.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image-640x290.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Resolved : Confusion over Due Diligence",
+          "text": "<p>April 3, 2018</p><p>Vijay Singh Rathore</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2f"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1212-921x480.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2h"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1213-960x479.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Why incorporation of Indian Start-ups was down by 29% YoY in 2017 and how to avoid this in 2018?",
+          "text": "<p>January 9, 2018</p><p>Vijay Singh Rathore</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>It is evident that India has experienced a boom in industry of start-ups from last half decade. More and more young entrepreneurs came up with a brilliant and rare idea to solve social problems. India is second in world to deliver Unicorn start-ups.</p><p>However year 2017 saw some major changes in numbers published by Nasscom. As per Nasscom Start-up Report 2017, Indian start-up industry saw a downfall of 29% YoY in 2017. This dent is majorly due to shift of focus to quality.</p><p>If we want to drill down the cause for this downfall in numbers of start-ups, we must first identify the challenges faced by start-ups currently working in India.&nbsp;</p><p>According to mentors, venture capitalists and founders of various start-ups below are the 6 key factors influencing the failure or success rate of start-ups in India.</p><p><br></p><p><b>1. Imperative Team:</b></p><p>‘Your biggest challenge will be building a great team’ – John Doerr.</p><p>Every start-up need an efficient, hardworking and creative team to reach the milestones it desires. According to various investors, one of the most crucial elements for any start-up is to have a sound team. As business models are mostly fragile and only a pillar which could save a business from crashing is its team. According to a survey, team failure was attributed to the shutdown of 23 percent of failed startups.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><b>2. Availability and Utilisation of Funds:</b></p><p>‘If you have an urge to build something that could change the world, don’t focus on the money, but the legacy you’ll leave behind.’ – Alexander Tamas</p><p>To grow in this competitive world, every founder must manage funds infused in company with due diligence. According to Nasscom, $6.2 Mn was the average funding per funded start-up in 2017. Indian start-ups have a potential to scale this up with a greater margin. However, most of the start-ups fails to analyse the requirements and utilisation of the funds received from the investors. Ignorance in this area leads to drainage of funds and disinterest of investors to participate in future rounds. Thus, every penny introduced in company must provide value to investors.</p><p><br></p><p><br></p><p><br></p><p><b>3. Market and Geography:</b></p><p>“You’re either ‘Making’ a market or ‘Disrupting’ a market. ‘Entering’ a market is usually the wrong way to go.”- Brian Halligan &nbsp; &nbsp;</p><p>The major challenge faced by any start-up is to identify the appropriate market which can accept product hand in hand. It is evident that if any start-up decodes this challenge, it is able to disrupt the market. Most of the start-ups ignore the customer availability in certain geographical area and launch the product out of convenience. This sort of step leads to losing early bird advantage for the product and may lead to kill of the model.</p><p><br></p><p><br></p><p><b>4. Decelerators:</b></p><p>“Be a student, not a follower. Take interest in what someone says, then debate it, ponder it and consider it from all angles”- Jim Rohn</p><p>It is observed that most of the disruption is done in the early growth stage of start-up. Most innovative, fast growing companies which started making profits early were sailing independently without any mentoring or incubation. Initial growth for such organisations may be slower; however such entities succeed to achieve long term goals. Thus mentoring must be curtailed by start-ups to extent possible.</p><p><br></p><p><br></p><p><br></p><p><b>5. Dynamic Environment:</b></p><p>“We need to be dynamic in accepting change and implementing change.”- Peter Amsterdam</p><p>In this constantly revolving universe, everything tends to change after a period of time. Likewise customer’s expectations, market compositions and competition constantly affect existence of start-up. Every team must be ready to accept all changes and keep their model updated on regular basis.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>6. Compliance and Monitoring:</b></p><p>“If you think compliance is expensive, try non-compliance.”- Paul McNulty</p><p>Most of start-ups are led by people from tech backgrounds which leaves them non-compliant to major laws applicable for any company in India such as Companies Act 2013, Labour Law, Intellectual property Rights, The Indian Contract Act 1872, etc. Founders must pay attention to avoid any non compliance which may attract heavy penalty and in worst case scenario result in discontinuation of business.</p><p><br></p><p>Success will be just a word and profits just numbers for any start-up which is able to manage these factors.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2m"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Page Maker Description",
+        "title": "Reach Us",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2969b0",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader15-6\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-14\">OUR SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-20\">OUR TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">WEB LOGS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-21\">MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-10\">LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logooo-263x78.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#extHeader15-6",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "OUR LOCATIONS",
+          "text": "GURUGRAM | NEW DELHI | BENGALURU | MUMBAI | LONDON",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "GURUGRAM",
+          "meta": "BlueOne Square, Udyog Vihar Phase 4 Rd, Gurugram, Haryana 122016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "WEWORK, BLUE ONE SQUARE",
+              "placeId": "ChIJPczO7S0ZDTkRx9e-tJfpt7Y",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-1f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#00a885"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "NEW DELHI",
+          "meta": "56-57, Ground Floor, Block AL, Poorbi Shalimar Bag, Shalimar Bagh, New Delhi, Delhi 110088",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            },
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-1q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "BENGALURU",
+          "meta": "43, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "WEWORK GALAXY, BENGALURU",
+              "placeId": "ChIJew-9s4AWrjsRaxTyaAxmZlQ",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "MUMBAI",
+          "meta": "Plot C 59, Bandra Kurla Complex, 9th Floor, Platina, G Block, Mumbai, Maharashtra 400051",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "REGUS, BKC",
+              "placeId": "ChIJ5aXQi-3I5zsR21f2D7Jj9KM",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-1o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#666666"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "LONDON",
+          "meta": "39, Barton Road, Langley SL3 8DF, London, UK",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1m"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "39, Barton Road, Langley SL3 8DF, London, UK",
+              "placeId": "ChIJxQYvFBlwdkgRYGKsHvQLm0I",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-1n"
+        }
+      ]
+    }
+  }
+}
