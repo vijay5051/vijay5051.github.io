@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.2",
     "siteFonts": [],
-    "uniqCompNum": 102,
+    "uniqCompNum": 104,
     "versionPublish": "4.9.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -57,7 +57,7 @@
             "imageSize": "10",
             "countdown": "2019/12/31",
             "animText1": "RELIABLE",
-            "animText2": "COMPETITIVE",
+            "animText2": "RESPONSIBILE",
             "animText3": "CREATIVE",
             "typeSpeed": "60",
             "bgImageRadio": true,
@@ -73,7 +73,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "",
+          "title": "A",
           "title2": "CORPORATE ADVISORY FIRM",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
@@ -140,10 +140,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.65rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.704rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -182,7 +182,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#2969b0",
-            "fontSize": "0.65",
+            "fontSize": "0.9",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -446,9 +446,9 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "showIcons": true,
+            "showIcons": false,
             "iconsColor": "#ffffff",
-            "showTitles": true,
+            "showTitles": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
@@ -550,31 +550,136 @@
           }
         },
         {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "social-person",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#2969b0"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "social-people",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#00a885"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "hellocoton",
+              "family": "socicon",
+              "active": true,
+              "link": "",
+              "size": "40",
+              "color": "#3d8eb9"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "communication-location-on",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#7e9b9f"
+            }
+          },
+          "title1": "Partners",
+          "subtitle1": "",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Members Team",
+          "subtitle2": "",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "Client Relationships",
+          "subtitle3": "",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Locations",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "number1": "10",
+          "number2": "75",
+          "number3": "500",
+          "number4": "5",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCounters2",
+          "_anchor": "extCounters2-2u"
+        },
+        {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#28324e",
-              "font-size": "60px"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "20px"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "OUR SERVICES",
-          "meta": "WIDER COVERAGE | EXPERTISE",
+          "text": "<p>WIDER COVERAGE | EXPERTISE</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-14"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2v"
         },
         {
           "_params": {
@@ -583,7 +688,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
@@ -652,16 +757,16 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Merger &amp; Acquisitions<br>Valuations<br>Fund-Raising<br>Financial Due Diligence<br>Venture Debt",
+          "caption1": "Merger &amp; Acquisitions<br>Valuations<br>Fund-Raising<br>Financial Due Diligence<br>Venture Debt<br>IPO Advisory/DRHP",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Business Plans<br>Go-to Market Strategy<br>Business Model Modification<br>Operational Excellence<br>Business Due Diligence",
+          "caption2": "Business Plans<br>Go-to Market Strategy<br>Business Model Modification<br>Operational Excellence<br>Business Due Diligence<br><br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Restructuring<br>Fraud &amp; Forensic<br>ARC Advisory<br>NCLT Matters<br>Distress Buy-outs",
+          "caption3": "Restructuring<br>Fraud &amp; Forensic<br>ARC Advisory<br>NCLT Matters<br>Distress Buy-outs<br><br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Book Keeping<br>Accounts Payable<br>Accounts Receivable<br>Financial Planning<br>Statutory Compliance",
+          "caption4": "Book Keeping<br>Accounts Payable<br>Accounts Receivable<br>Financial Planning<br>Statutory Compliance<br><br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -770,13 +875,13 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Statutory Audits<br>Risk Assessments<br>Secretarial Compliances<br>IndAS &amp; IFRS<br><br>",
+          "caption1": "IndAS &amp; IFRS<br>Restatement of Accounts<br>System Audit<br>Management Audit<br>Secretarial Compliances<br>",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Income Tax- India<br>Goods &amp; Service Tax<br>Cross Border Taxation<br>Transfer Pricing<br>Tax Audits",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Internal Audit​<br>Risk Assessment<br>IFC<br><br><br>",
+          "caption3": "Internal Audit​<br>Operational Risk<br>Regulatory Risk<br>Strategic &amp; Reputation Risk<br>Internal Financial Control<br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Body-Shopping<br>PE/VC Hiring<br>Virtual CFO<br>AR/AP Functions<br>Executive Research",
@@ -2111,7 +2216,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop4.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop3.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2888,7 +2993,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#2969b0",
-            "fontSize": "0.65",
+            "fontSize": "0.9",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -3386,7 +3491,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#2969b0",
-            "fontSize": "0.65",
+            "fontSize": "0.9",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
