@@ -771,6 +771,14 @@ h6,
 #extHeader3-10 H3 {
   color: #ffffff;
 }
+#extHeader3-10 .etl-icon {
+  color: #ffffff !important;
+  border-color: #ffffff;
+}
+#extHeader3-10 .features-list i {
+  color: #ffffff !important;
+  border-color: #ffffff;
+}
 #header3-14 .mbr-section-title,
 #header3-14 .mbr-section-subtitle {
   text-align: center;

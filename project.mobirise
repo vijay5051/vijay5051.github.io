@@ -48,7 +48,7 @@
       "components": [
         {
           "_params": {
-            "showLogo": true,
+            "showLogo": false,
             "showTitle": true,
             "showText": true,
             "showCountdown": false,
@@ -80,7 +80,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iw-copy-2-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/iw%20copy%202-200x200.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -438,7 +438,7 @@
             "showButtons": true,
             "showArrow": true,
             "showIcons": true,
-            "iconsColor": "#fff",
+            "iconsColor": "#ffffff",
             "showTitles": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
@@ -522,6 +522,14 @@
             },
             "H3": {
               "color": "#ffffff"
+            },
+            ".etl-icon": {
+              "color": "#ffffff !important",
+              "border-color": "#ffffff"
+            },
+            ".features-list i": {
+              "color": "#ffffff !important",
+              "border-color": "#ffffff"
             }
           }
         },
@@ -2049,7 +2057,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop7.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop0.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
