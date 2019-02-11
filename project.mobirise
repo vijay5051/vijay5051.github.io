@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InnerWave",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -50,7 +50,7 @@
           "_params": {
             "showLogo": false,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showCountdown": false,
             "showForm": false,
             "showArrow": true,
@@ -59,7 +59,7 @@
             "animText1": "RELIABLE",
             "animText2": "COMPETITIVE",
             "animText3": "CREATIVE",
-            "typeSpeed": 60,
+            "typeSpeed": "60",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1439.jpg",
             "parallax": true,
@@ -2057,7 +2057,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2359,7 +2359,7 @@
             "showTitle": false,
             "showSubtitle": false,
             "autoplay": true,
-            "timeout": "2",
+            "timeout": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
             "showArrows": true,
@@ -2607,7 +2607,7 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
