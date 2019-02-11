@@ -48,13 +48,13 @@
       "components": [
         {
           "_params": {
-            "showLogo": false,
+            "showLogo": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showCountdown": false,
             "showForm": false,
             "showArrow": true,
-            "imageSize": "13",
+            "imageSize": "10",
             "countdown": "2019/12/31",
             "animText1": "RELIABLE",
             "animText2": "COMPETITIVE",
@@ -80,7 +80,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iw%20copy-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/iw-copy-200x200.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -2049,7 +2049,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop15.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop3.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
