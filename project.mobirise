@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.2",
     "siteFonts": [],
-    "uniqCompNum": 104,
+    "uniqCompNum": 105,
     "versionPublish": "4.9.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -2222,7 +2222,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop0.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
