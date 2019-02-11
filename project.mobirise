@@ -651,6 +651,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -2216,7 +2222,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop6.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop7.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
