@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InnerWave",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.2",
     "siteFonts": [],
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "4.9.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -140,10 +140,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -169,6 +169,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#2969b0!important"
+            },
+            "A": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -179,7 +182,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#2969b0",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -219,6 +222,9 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff"
+            },
+            "H2": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -304,10 +310,10 @@
               "family": "et-line"
             }
           },
-          "title1": "Mergers &amp; Acquisitions &amp; VC/PE Deals Participated",
-          "title2": "<p>Asset, Business &amp; GAAP Valuations Delivered</p>",
-          "title3": "Financial &amp; Business Due Diligence Delivered",
-          "title4": "Risk Advisory Agreements",
+          "title1": "<span style=\"font-weight: normal;\">Mergers &amp; Acquisitions &amp; VC/PE Deals Participated</span>",
+          "title2": "<p><span style=\"font-weight: normal;\">Asset, Business &amp; GAAP Valuations Delivered</span></p>",
+          "title3": "<span style=\"font-weight: normal;\">Financial &amp; Business Due Diligence Delivered</span>",
+          "title4": "<span style=\"font-weight: normal;\">Risk Advisory Agreements</span>",
           "subtitle1": "",
           "subtitle2": "",
           "subtitle3": "",
@@ -327,6 +333,9 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff"
+            },
+            "H2": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -412,10 +421,10 @@
               "family": "et-line"
             }
           },
-          "title1": "Cross Border Transactions",
-          "title2": "Distressed Asset Deals &amp; Restructuring / NCLT Cased Handled",
-          "title3": "Movie Finance Project",
-          "title4": "IndAS Assignments",
+          "title1": "<span style=\"font-weight: normal;\">Cross Border Transactions</span>",
+          "title2": "<span style=\"font-weight: normal;\">Distressed Asset Deals &amp; Restructuring / NCLT Cased Handled</span>",
+          "title3": "<span style=\"font-weight: normal;\">Movie Finance Project</span>",
+          "title4": "<span style=\"font-weight: normal;\">IndAS Assignments</span>",
           "subtitle1": "",
           "subtitle2": "",
           "subtitle3": "",
@@ -454,7 +463,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "ABOUT US",
-          "text": "InnerWave is one of the fastest growing Corporate Advisory firms in India. With over 75 professional staff across 5 offices, the firm provides robust advisory services and expansion solutions on complex business and financial matters through focused coverage groups. <br>The firm has deep expertise across a range of sectors &amp; practice areas. Team of experts with 150+ years of combined advisory experience working with Best-in-Class firms and Fortune 500 clients. The firm’s strong Expert Group &amp; Advisory Council enhances the expertise and helps deliver customized solutions to clients<br><br>",
+          "text": "InnerWave is one of the fastest growing Corporate Advisory firms in India. With over 75 professional staff across 5 offices, the firm provides robust advisory services &amp; expansion solutions on complex business &amp; financial matters through focused coverage groups. The firm has deep expertise across a range of sectors &amp; practice areas. Team of experts with 150+ years of combined advisory experience working with Best-in-Class firms &amp; Fortune 500 clients. The firm’s strong Expert Group &amp; Advisory Council enhances the expertise &amp; helps deliver customized solutions to clients<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-14\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#msg-box8-20\" data-toolbar=\"-mbrBtnMove\">OUR TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page2.html#msg-box2-1h\" data-toolbar=\"-mbrBtnMove\">OUR LOCATIONS</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box8-21\" data-toolbar=\"-mbrBtnMove\">MEDIA</a>",
           "title1": "10 Partners",
           "title2": "75+ Team",
@@ -517,11 +526,12 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "19px",
+              "font-size": "20px",
               "color": "#ffffff"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "60px"
             },
             ".etl-icon": {
               "color": "#ffffff !important",
@@ -530,6 +540,12 @@
             ".features-list i": {
               "color": "#ffffff !important",
               "border-color": "#ffffff"
+            },
+            "H5": {
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           }
         },
@@ -539,7 +555,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "font-size": "60px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -549,7 +569,7 @@
             "bgColor": "#fff"
           },
           "title": "OUR SERVICES",
-          "meta": "Wide Coverage | Expertise",
+          "meta": "WIDER COVERAGE | EXPERTISE",
           "_tags": [
             "Theme"
           ],
@@ -658,7 +678,12 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-i"
+          "_anchor": "features3-i",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_params": {
@@ -771,12 +796,23 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-v"
+          "_anchor": "features3-v",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
             }
           },
           "_params": {
@@ -784,7 +820,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1272.jpg",
             "parallax": true,
@@ -834,7 +870,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jatin-133x133.png",
+              "src": "@PROJECT_PATH@/assets/images/jatin-154x154.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -845,7 +881,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pravesh-130x130.png",
+              "src": "@PROJECT_PATH@/assets/images/pg-162x156.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -856,7 +892,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/saurabh-132x132.png",
+              "src": "@PROJECT_PATH@/assets/images/sg-160x160.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -896,7 +932,7 @@
           "caption1": "Chartered Accountant, Certified Valuation Professional<br>-Deloitte, Alpha G Corp (A Morgan Stanley funded company)<br>-Over 14 years of experience <br>-JT@innerwave.in<br><br>",
           "title2": "Pravesh Goel",
           "subtitle2": "<span style=\"font-style: normal;\">Chief Operating Officer</span>",
-          "caption2": "&nbsp;Chartered Accountant, Certified International Tax Practitioner<br>- PWC, Deloitte,Saipem<br>- Over 14 years of experience<br>- Process Automation Expert<br>-pravesh@innerwave.in &nbsp;",
+          "caption2": "&nbsp;Chartered Accountant, <br>Certified International Tax Practitioner<br>- PWC, Deloitte,Saipem<br>- Over 14 years of experience<br>-pravesh@innerwave.in",
           "title3": "Saurabh Gupta",
           "subtitle3": "<span style=\"font-style: normal;\">Partner</span>",
           "caption3": "- Chartered Accountant, Certified Internal Audit, <br>Certified Forensic Accountant<br>- EY, XL Catlin<br>- Over 14 years of experience<br> - Saurabh@innerwave.in &nbsp;",
@@ -1196,10 +1232,14 @@
           "_anchor": "extFeatures9-d",
           "_styles": {
             "H4": {
-              "color": "#2969b0"
+              "color": "#2969b0",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "color": "#28324e"
+            },
+            "P": {
+              "font-size": "16px"
             }
           }
         },
@@ -1230,7 +1270,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vijay-1-150x150.png",
+              "src": "@PROJECT_PATH@/assets/images/vr-154x154.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1241,7 +1281,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/divakar-2-130x130.png",
+              "src": "@PROJECT_PATH@/assets/images/dr-154x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1252,7 +1292,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/shelly-tehri-130x130.png",
+              "src": "@PROJECT_PATH@/assets/images/st-154x154.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1591,7 +1631,11 @@
           "_anchor": "extFeatures9-e",
           "_styles": {
             "H4": {
-              "color": "#41a85f"
+              "color": "#41a85f",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "16px"
             }
           }
         },
@@ -1622,7 +1666,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bala-130x130.png",
+              "src": "@PROJECT_PATH@/assets/images/bala-156x160.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1633,7 +1677,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rakesh-130x130.png",
+              "src": "@PROJECT_PATH@/assets/images/rj-154x156.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1644,7 +1688,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vishal-130x130.png",
+              "src": "@PROJECT_PATH@/assets/images/vs-154x154.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1982,7 +2026,11 @@
           "_anchor": "extFeatures9-f",
           "_styles": {
             "H4": {
-              "color": "#3d8eb9"
+              "color": "#3d8eb9",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "16px"
             }
           }
         },
@@ -1990,6 +2038,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
             }
           },
           "_params": {
@@ -1997,7 +2051,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
@@ -2057,7 +2111,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop3.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2148,6 +2202,9 @@
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           }
         },
@@ -2155,6 +2212,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -2189,6 +2249,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
             }
           },
           "_params": {
@@ -2196,7 +2262,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "parallax": true,
@@ -2211,7 +2277,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MEDIA",
-          "text": "<p>Portfolio | Press Release</p>",
+          "text": "<p>PORTFOLIO | PRESS RELEASES</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -2318,12 +2384,20 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-22"
+          "_anchor": "features3-22",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -2656,7 +2730,8 @@
           "_anchor": "contacts4-1t",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             },
             "B": {
               "color": "#ffffff"
@@ -2771,10 +2846,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2800,6 +2875,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#2969b0!important"
+            },
+            "A": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -2810,7 +2888,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#2969b0",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -3266,10 +3344,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3295,6 +3373,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#2969b0!important"
+            },
+            "A": {
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -3305,7 +3386,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#2969b0",
-            "fontSize": "0.75",
+            "fontSize": "0.65",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
