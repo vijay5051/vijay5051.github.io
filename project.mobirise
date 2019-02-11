@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "InnerWave",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2222,7 +2222,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop7.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop8.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2957,10 +2957,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.65rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.704rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3455,10 +3455,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.65rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.704rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3536,10 +3536,12 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -3549,18 +3551,18 @@
             "inverse": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#28324e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "title": "OUR LOCATIONS",
           "text": "GURUGRAM | NEW DELHI | BENGALURU | MUMBAI | LONDON",

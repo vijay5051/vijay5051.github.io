@@ -937,11 +937,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #menu-15 .link {
-  font-size: 0.65rem;
+  font-size: 0.9rem;
 }
 #menu-15 .dropdown-item,
 #menu-15 .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.975rem;
 }
 #menu-15 .link:hover,
 #menu-15 .dropdown-item:hover,
@@ -1035,11 +1035,11 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #menu-1e .link {
-  font-size: 0.65rem;
+  font-size: 0.9rem;
 }
 #menu-1e .dropdown-item,
 #menu-1e .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.975rem;
 }
 #menu-1e .link:hover,
 #menu-1e .dropdown-item:hover,
@@ -1083,9 +1083,11 @@ h6,
 }
 #msg-box2-1h .mbr-section-title {
   color: #fff;
+  text-align: left;
 }
 #msg-box2-1h .mbr-section-subtitle {
-  color: #a0a0a0;
+  color: #ffffff;
+  text-align: left;
 }
 #header3-1i .mbr-section-title,
 #header3-1i .mbr-section-subtitle {
